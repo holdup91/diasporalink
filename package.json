@@ -74,7 +74,7 @@
     "terser": "latest",
     "tsx": "latest",
     "typescript-eslint": "latest",
-    "vaul": "^0.9.6",
+    "vaul": "^1.1.1",
     "vite": "latest",
     "yaml": "latest",
     "zod": "^3.24.1"
